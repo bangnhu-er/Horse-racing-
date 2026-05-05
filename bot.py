@@ -12,7 +12,7 @@ from items import (
 )
 
 # ========== CẤU HÌNH ==========
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "MTUwMTE3Mjk5NjEzNDQwODI2Mg.GBFSZK.p-ur1o5TRtE9-S3SNmDpKe163azXN35urHes0A"
 PREFIX = "!"
 STARTING_BALANCE = 1000
 
