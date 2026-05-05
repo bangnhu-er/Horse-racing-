@@ -12,7 +12,7 @@ from items import (
 )
 
 # ========== CẤU HÌNH ==========
-TOKEN = "MTUwMTE3Mjk5NjEzNDQwODI2Mg.GetZw5.IP1y1NGuUeKHJm_w2qreOHUdEqPfurZv5UCB2o"
+TOKEN = "MTUwMTE3Mjk5NjEzNDQwODI2Mg.GomExJ.ZHPLehDv_UphuMUE3Q-0g-OBQPeL5JUxgVmiPU"
 PREFIX = "!"
 STARTING_BALANCE = 1000
 
@@ -806,3 +806,6 @@ async def help_command(ctx):
 # ══════════════════════════════════════════════════════════════════════════════
 if __name__ == "__main__":
     bot.run(TOKEN)
+
+token = os.getenv('DISCORD_TOKEN')
+client.run(token)
