@@ -12,7 +12,7 @@ from items import (
 )
 
 # ========== CẤU HÌNH ==========
-TOKEN = "MTUwMTE3Mjk5NjEzNDQwODI2Mg.GBFSZK.p-ur1o5TRtE9-S3SNmDpKe163azXN35urHes0A"
+TOKEN = "MTUwMTE3Mjk5NjEzNDQwODI2Mg.GetZw5.IP1y1NGuUeKHJm_w2qreOHUdEqPfurZv5UCB2o"
 PREFIX = "!"
 STARTING_BALANCE = 1000
 
